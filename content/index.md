@@ -2,5 +2,4 @@
 title: Welcome to My Vault!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I will be using this space to document my journey through the world of technology. I hope you find the content here useful.
