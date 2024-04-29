@@ -7,6 +7,9 @@ I will be using this space to document my journey through the world of technolog
 ## AI MicroBootcamp Notes
 
 [[Unsupervised Learning]]
+
 [[Supervised Learning - Regression]]
+
 [[Supervised Learning - Classification]]
+
 [[Machine Learning Optimization]]
