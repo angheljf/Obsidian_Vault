@@ -39,7 +39,7 @@ Notes
 | [[Eyes on the Prize\|Eyes on the Prize]]                               | 8:02 PM - October 27, 2023 |
 | [[Hyperparameter Tuning\|Hyperparameter Tuning]]                       | 8:10 PM - October 27, 2023 |
 | [[Activity - Hyperparameter Tuning\|Activity - Hyperparameter Tuning]] | 11:37 AM - April 29, 2024  |
-
+| [[How Much is Enough\|How Much is Enough]]                             | 3:04 PM - April 30, 2024   |
 
 
 
