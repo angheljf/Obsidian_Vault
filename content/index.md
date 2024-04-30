@@ -18,4 +18,6 @@ I will be using this space to document my journey through the world of technolog
 
 [[Machine Learning Optimization]]
 
+[[Neural Networks and Deep Learning]]
+
 </details>
