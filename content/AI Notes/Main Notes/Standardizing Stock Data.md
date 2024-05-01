@@ -89,4 +89,5 @@ df_stocks_scaled_predictions.head()
 - Note: The `k` was given to us but we could have used [[The Elbow Method]] in order to find the best `k`.
 ---
 >Related Notes: [[Apply Standard Scaling]], [[The Elbow Method]], [[Apply the Elbow Method]]
+
 >Tags: #AI #UL 

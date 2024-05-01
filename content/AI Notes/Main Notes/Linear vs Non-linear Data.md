@@ -14,4 +14,5 @@ type: Model Selection
 - Another instance in which you want to consider non-linear models is when you are classifying data into more than two categories.
 ---
 >Related Notes: [[Introduction to Model Selection]]
+
 >Tags: #AI #SL 

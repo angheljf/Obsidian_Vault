@@ -10,8 +10,7 @@ tags:
 type: 
 share: "true"
 ---
-Notes
-## Introduction to Machine Learning Optimization
+## Introduction
 | File                                                                                                                    | Date Created                 |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
 | [[Intro to Machine Learning Optimization\|Intro to Machine Learning Optimization]]               | 8:11 PM - August 25, 2023    |

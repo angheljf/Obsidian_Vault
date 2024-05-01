@@ -13,5 +13,6 @@ type: Intro SL
 - The following figure illustrates this using the example of categorizing fruit:
 ![[supervised-learning-classification-process-flowchart.png]]
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #SL 

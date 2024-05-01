@@ -21,4 +21,5 @@ type: Imbalanced
 ![[resampling-tree.png]]
 ---
 >Related Notes: [[Intro to Imbalanced Data]]
+
 >Tags: #AI #UL #SL 

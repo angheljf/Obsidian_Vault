@@ -42,5 +42,6 @@ df.plot.scatter(x="Feature 1",
 ![[make-blobs-three-clusters.png]]
 
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #UL

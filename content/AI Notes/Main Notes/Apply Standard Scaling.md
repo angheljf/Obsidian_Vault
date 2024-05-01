@@ -43,4 +43,5 @@ df_shopping_transformed.head()
 
 ---
 >Related Notes: [[Scaling and Transforming for Optimization]]
+
 >Tags: #AI #UL 

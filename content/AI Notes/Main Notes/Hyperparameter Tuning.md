@@ -161,4 +161,5 @@ predictions = random_clf.predict(X_test)
 -  For reference, [here](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html#sklearn.model_selection.RandomizedSearchCV) is the documentation about `RandomizedSearchCV`.
 ---
 >Related Notes: [[Linear Models]], [[Predict Occupancy with SVM]]
+
 >Tags: #AI #SL #UL 

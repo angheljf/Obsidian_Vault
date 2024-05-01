@@ -166,4 +166,5 @@ print(classification_report(y_test, y_pred_oversampled))
 - Regardless of the different outcomes, both undersampling and oversampling improved the results over the original data.
 ---
 >Related Notes: [[Accuracy]], [[Other Metrics]], [[Confusion Matrix]], [[Oversampling and Undersampling]]
+
 >Tags: #AI #UL #SL 

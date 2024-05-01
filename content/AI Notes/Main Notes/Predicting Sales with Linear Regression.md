@@ -193,4 +193,5 @@ The root mean squared error is 1386.5976.
 
 ---
 >Related Notes: [[Making Predictions with Linear Regression]], [[Model Evaluation - Quantifying Regression]]
+
 >Tags: #AI #SL 

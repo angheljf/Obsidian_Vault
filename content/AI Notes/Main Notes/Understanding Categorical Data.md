@@ -31,5 +31,6 @@ df.plot.scatter(
 ![[logistic-regression-demo-plot.png]]
 - In the image, the healthy firms appear in the top-right part of the plot in green and the unhealthy firms appear in the bottom-left part of the plot in blue.
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #SL 

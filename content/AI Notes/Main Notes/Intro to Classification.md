@@ -15,4 +15,5 @@ type: Classification
 - In any logistic regression model, the sigmoid function transforms the model’s predictions about, in this case, the borrower, into a single probability value.
 ---
 >Related Notes: [[Regression vs Classification]]
+
 >Tags: #AI #SL 

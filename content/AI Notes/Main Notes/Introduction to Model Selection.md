@@ -19,4 +19,5 @@ type: Model Selection
 - There are many other tools that you can use to automatically try different models and rank the results with a leaderboard system, such as [Amazon’s SageMaker](https://aws.amazon.com/sagemaker/autopilot/?sagemaker-data-wrangler-whats-new.sort-by=item.additionalFields.postDateTime&sagemaker-data-wrangler-whats-new.sort-order=desc)
 ---
 >Related Notes: [[Intro to Classification]], [[Regression vs Classification]]
+
 >Tags: #AI #SL 

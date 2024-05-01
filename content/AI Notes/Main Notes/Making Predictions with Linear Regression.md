@@ -152,4 +152,5 @@ salary_plot
 
 ---
 >Related Notes: [[Intro to Linear Regression]]
+
 >Tags: #AI #SL 

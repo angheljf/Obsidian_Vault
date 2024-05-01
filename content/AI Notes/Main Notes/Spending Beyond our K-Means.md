@@ -108,4 +108,5 @@ df_shopping_predictions.plot.scatter(
 
 ---
 >Related Notes: [[Clustering]], [[Using the K-Means Algorithm]]
+
 >Tags: #AI  #UL

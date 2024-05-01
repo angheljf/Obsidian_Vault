@@ -15,4 +15,5 @@ type: Intro SL
 ![[model-fit-predict-diagram.png]]
 ---
 >Related Notes: [[What is Supervised Learning]], [[Features and Labels]]
+
 >Tags: #AI #SL 

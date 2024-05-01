@@ -13,5 +13,6 @@ type: Optimization
 - Accuracy can be a decent metric when classes are “balanced” equally, but even then, in some situations the importance or weight of correct and incorrect predictions might be very different.
 - Keeping the importance of context in mind, you first should ask yourself whether you are targeting the correct data column in your model.
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #UL #SL 

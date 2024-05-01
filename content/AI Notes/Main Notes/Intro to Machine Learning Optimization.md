@@ -12,5 +12,6 @@ type: Optimization
 - **Machine learning optimization** is the process of improving the performance of a machine learning model by adjusting its parameters and hyperparameters.
 - This is done by running the model on a training dataset and evaluating its performance on a validation dataset, then adjusting the parameters to improve the model’s accuracy or other performance metrics.
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #UL #SL 

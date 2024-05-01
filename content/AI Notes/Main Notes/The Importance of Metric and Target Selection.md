@@ -15,4 +15,5 @@ type: Optimization
 - Selecting the right metric doesn't guarantee a well-performing model, but it ensures that you can measure its performance accurately. If a model underperforms, you can identify where the problem lies.
 ---
 >Related Notes: [[Accuracy]], [[Other Metrics]]
+
 >Tags: #AI #UL #SL 

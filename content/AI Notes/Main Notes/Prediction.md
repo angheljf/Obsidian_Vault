@@ -46,4 +46,5 @@ accuracy_score(y_test, testing_predictions)
 - **Overfitting** means that the model is so good at predicting the correct target for the training data that it won’t perform well on new data that it wasn't trained on.
 ---
 >Related Notes: [[Understanding Categorical Data]], [[Preprocessing]], [[Training and Validation]]
+
 >Tags: #AI #SL 

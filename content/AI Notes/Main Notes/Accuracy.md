@@ -15,5 +15,6 @@ type: Optimization
 $$Accuracy = {(TN + TP) \over (TN + FP + FN + TP)}$$
 - Accuracy is a perfectly acceptable measurement to use if all the outcomes are roughly of equal importance.
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #UL #SL 

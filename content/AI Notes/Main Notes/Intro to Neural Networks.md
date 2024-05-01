@@ -17,5 +17,6 @@ type: Neural
 - **Neural networks** have the power to make predictions based on datasets that are too complex for other types of machine learning algorithms to process.
 - They are capable of receiving input information, placing some weight or importance on that input, and using that judgment to inform the behavior of other parts of the knowledge system.
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #NN 

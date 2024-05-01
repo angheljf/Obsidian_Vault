@@ -15,4 +15,5 @@ type: Intro SL
 ![[train-test-split.png]]
 ---
 >Related Notes: [[Model-Fit-Predict]], [[Model Evaluation]]
+
 >Tags: #AI #SL 

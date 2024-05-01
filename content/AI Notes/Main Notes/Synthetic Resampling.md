@@ -204,4 +204,5 @@ print(classification_report(y_test, smoteenn_y_pred))
 - In conclusion, SMOTE and SMOTEENN both improved the recall of the “yes” class, while cluster centroids _dramatically_ improved it to almost 100%.
 ---
 >Related Notes: [[Oversampling and Undersampling]], [[Applying Random Sampling Techniques]]
+
 >Tags: #AI #UL #SL 

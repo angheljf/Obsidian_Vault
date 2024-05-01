@@ -13,5 +13,6 @@ type: Tuning
 - Picking the best model through pure academic knowledge of each model is an inefficient method, and in some cases, can actually limit what makes machine learning unique.
 - The most important thing is to define your metrics and use them as your source of truth throughout the project.
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #SL #UL 

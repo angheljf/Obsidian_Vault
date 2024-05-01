@@ -32,4 +32,5 @@ type: Model Selection
 ![[decision-tree-nodes.png]]
 ---
 >Related Notes: [[Linear vs Non-linear Data]]
+
 >Tags: #AI #SL 

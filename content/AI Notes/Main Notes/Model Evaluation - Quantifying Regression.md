@@ -38,4 +38,5 @@ The root mean squared error is 5592.0436.
 - Note that R<sup>2</sup> is the default score for `sklearn`’s linear regression model.
 ---
 >Related Notes: [[Model Evaluation]]
+
 >Tags: #AI #SL 

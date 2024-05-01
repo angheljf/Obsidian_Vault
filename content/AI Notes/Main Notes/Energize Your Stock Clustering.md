@@ -99,4 +99,5 @@ df_stocks_pca_predictions.plot.scatter(
 
 ---
 >Related Notes: [[Intro to Principal Component Analysis]], [[Standardizing Stock Data]]
+
 >Tags: #AI #UL 

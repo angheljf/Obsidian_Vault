@@ -71,4 +71,5 @@ accuracy_score(y_test, testing_predections)
 ```
 ---
 >Related Notes: [[Linear Models]]
+
 >Tags: #AI #SL 

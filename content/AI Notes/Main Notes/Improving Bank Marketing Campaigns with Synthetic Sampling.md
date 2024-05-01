@@ -199,4 +199,5 @@ avg / total       0.94      0.93      0.83      0.94      0.88      0.78       3
 - If on the other hand, you have a situation in which the costs of misclassification are the same either way—if failing to correctly identify a `1` has the same practical cost as failing to correctly identify a `0`—then we may be better off with the overall higher accuracy of a standard machine learning model.
 ---
 >Related Notes: [[Synthetic Resampling]]
+
 >Tags: #AI #UL #SL 

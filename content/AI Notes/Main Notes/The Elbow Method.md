@@ -20,4 +20,5 @@ type: Clustering
 ![[simple-elbow-curve.png]]
 ---
 >Related Notes: [[Clustering]]
+
 >Tags: #AI #UL 

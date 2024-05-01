@@ -56,4 +56,5 @@ print(classification_report(y_test, y_pred))
 - When training models on imbalanced data without applying the proper preprocessing and without using an appropriate metric can cause results that seem great on first glance but actually perform poorly in practice.
 ---
 >Related Notes: [[Random Forest]], [[Oversampling and Undersampling]], [[Applying Random Sampling Techniques]]
+
 >Tags: #AI #UL #SL 

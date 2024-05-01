@@ -38,4 +38,5 @@ Testing Data Score: 1.0
 - If the training score is significantly more accurate than the testing score (closer to 1.0), the model may be overfitted.
 ---
 >Related Notes: [[Understanding Categorical Data]], [[Preprocessing]]
+
 >Tags: #AI #SL 

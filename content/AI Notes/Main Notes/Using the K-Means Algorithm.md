@@ -62,4 +62,5 @@ service_rating_predictions_df.plot.scatter(
 
 ---
 >Related Notes: [[Clustering]], [[Using the K-Means Algorithm]]
+
 >Tags: #AI #UL 

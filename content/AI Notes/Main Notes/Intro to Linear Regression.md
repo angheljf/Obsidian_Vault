@@ -23,4 +23,5 @@ y = a + bx
 	- No trend: As the independent value _**x**_ increases, the dependent value _**y**_ randomly increases and decreases to the point at which there is no clear pattern in the data.
 ---
 >Related Notes: [[Regression vs Classification]]
+
 >Tags: #AI #SL 

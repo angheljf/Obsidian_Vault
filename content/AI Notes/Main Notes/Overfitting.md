@@ -16,4 +16,5 @@ type: Model Selection
 - One solution to reduce overfitting, and therefore variance, is to reduce complexity.
 ---
 >Related Notes: [[Decision Trees]]
+
 >Tags: #AI #SL 

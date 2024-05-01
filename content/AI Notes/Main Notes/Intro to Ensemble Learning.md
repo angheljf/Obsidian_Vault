@@ -17,5 +17,6 @@ type: Ensemble Learning
 - The algorithms that fail at learning in an adequate fashion are termed **weak learners**.
 - Weak learners are valuable because there are models that can combine many weak learners to create a more accurate and robust prediction engine.
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #SL 

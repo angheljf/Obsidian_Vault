@@ -21,4 +21,5 @@ type: Ensemble Learning
 	- **XGBoost**: A software library that optimizes computational speed and model performance. It does this by building boosted trees in parallel.
 ---
 >Related Notes: [[Intro to Ensemble Learning]], [[Random Forest]]
+
 >Tags: #AI #SL 

@@ -14,5 +14,6 @@ type: Imbalanced
 - With imbalanced data, you run the risk of training a model that is better at predicting the majority class over the minority class because model fitting algorithms are designed to minimize the number of total incorrect classifications.
 - One way to coerce a model to predict the minority class more often lies in over- and undersampling.
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #UL #SL 

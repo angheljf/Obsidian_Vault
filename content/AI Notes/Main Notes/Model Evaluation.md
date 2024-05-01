@@ -18,4 +18,5 @@ type: Intro SL
 - **Note**: MSE and R<sup>2</sup> are defined in the [[Model Evaluation - Quantifying Regression]] note.
 ---
 >Related Notes: [[Model-Fit-Predict]]
+
 >Tags: #AI #SL 

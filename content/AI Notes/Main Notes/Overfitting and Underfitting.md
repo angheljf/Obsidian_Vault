@@ -20,5 +20,6 @@ type: Optimization
 - In order to develop an effective predictive model, you must pay attention to balancing out bias and variance.
 - One way to avoid this is to ensure that your model’s performance is tested and measured on fresh data on which it was not trained.
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #UL #SL 

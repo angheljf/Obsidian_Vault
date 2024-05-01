@@ -23,5 +23,6 @@ type: Intro
 	Step 5: The reassigned data points are shown without the cluster centers.
 ![[K-means-adjusted-cluster-centers.png]]
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #UL

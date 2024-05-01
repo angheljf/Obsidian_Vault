@@ -66,4 +66,5 @@ df_elbow_data.plot.line(
 - Based on the plot, 3 seems to be the optimal number for the value of `k`.
 ---
 >Related Notes: [[The Elbow Method]], [[Apply the Elbow Method]]
+
 >Tags: #AI #UL 

@@ -9,7 +9,7 @@ tags:
 type: 
 share: "true"
 ---
-## Classification and Logistic Regression
+## Introduction
 | File                                                                                      | Date Created               |
 | ----------------------------------------------------------------------------------------- | -------------------------- |
 | [[Intro to Classification\|Intro to Classification]]               | 11:49 AM - August 04, 2023 |

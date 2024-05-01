@@ -18,5 +18,6 @@ type: Clustering
 - We can use the `StandardScaler` function from the `scikit-learn` library. The `StandardScaler` will transform our data by calculating the mean value of the column and scaling the data in the column to a standard deviation of 1.
 - After scaling this way, the data has a mean of 0 and a standard deviation of 1. In statistics, this is referred to as **data standardization**.
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #UL 

@@ -87,4 +87,5 @@ importances_sorted[:10]
 - Sometimes, machine learning programmers choose to remove these features from the dataset before training the model, so that they cannot skew the results. Identifying and removing features with a low importance can also improve the accuracy of the model.
 ---
 >Related Notes: [[Random Forest]], [[Decision Trees]]
+
 >Tags: #AI #SL 

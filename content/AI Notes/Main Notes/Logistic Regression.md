@@ -90,4 +90,5 @@ accuracy_score(y_test, testing_predections)
 ```
 ---
 >Related Notes: [[Understanding Categorical Data]]
+
 >Tags: #AI #SL 

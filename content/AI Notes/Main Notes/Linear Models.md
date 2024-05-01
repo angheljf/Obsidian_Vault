@@ -27,4 +27,5 @@ type: Model Selection
 - SVM is often more beneficial than logistic regression because the model supports the classification of outliers and overlapping data points. Also, for many datasets, SVM can provide higher accuracy with less computation power.
 ---
 >Related Notes: [[Linear vs Non-linear Data]], [[Logistic Regression]]
+
 >Tags: #AI #SL 

@@ -76,4 +76,5 @@ Percentage decrease from k=9 to k=10: 7.75%
 - Note that an elbow curve is **not** a definite answer for how many clusters there should be. Rather, it works as a guide and it’s ultimately up to you to determine the right amount.
 ---
 >Related Notes: [[Clustering]], [[The Elbow Method]]
+
 >Tags: #AI #UL 

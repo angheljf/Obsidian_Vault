@@ -16,4 +16,5 @@ type: Intro SL
 - In summary, supervised learning uses features and labels to train algorithms to classify new data and predict outcomes.
 ---
 >Related Notes: [[What is Supervised Learning]]
+
 >Tags: #AI #SL 

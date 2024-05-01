@@ -14,5 +14,6 @@ type: Intro SL
 ![[regression-versus-classification.png]]
 - We use regression to define a trend that works for the whole dataset; whereas, we use classification to classify the dataset into distinct groups.
 ---
->Related Notes: 
+>Related Notes:
+ 
 >Tags: #AI #SL 

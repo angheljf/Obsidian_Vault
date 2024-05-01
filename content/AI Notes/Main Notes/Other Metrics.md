@@ -50,4 +50,5 @@ $$F1 \ Score = {2TP \over (2TP + FP + FN)}$$
 - The closer your F1 score is to 1, the more balanced the two measurements are. The closer to 0, the more imbalanced.
 ---
 >Related Notes: [[Accuracy]]
+
 >Tags: #AI #UL #SL 
