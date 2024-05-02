@@ -5,7 +5,7 @@ last modified: 2024-05-01 11:30
 aliases: 
 tags:
   - AI
-  - UL
+  - NN
 type: Neural
 ---
 - The computational equivalent of a single neuron in the brain is called a **perceptron**.
