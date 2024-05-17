@@ -39,5 +39,4 @@ share: "true"
 | [[Boosting\|Boosting]]                                       | 9:34 PM - August 20, 2023 |
 
 ---
->Related Notes: 
 >Tags: #AI #SL 

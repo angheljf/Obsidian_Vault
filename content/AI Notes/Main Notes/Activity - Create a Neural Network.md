@@ -69,4 +69,5 @@ X_test_scaled = X_scaler.transform(X_test)
 ```
 ---
 >Related Notes: [[The Structure of a Neural Network]]
+
 >Tags: #AI #NN 
