@@ -34,5 +34,6 @@ share: "true"
 | [[Predicting Wine Quality with Deep Learning\|Predicting Wine Quality with Deep Learning]] | 7:15 PM - May 16, 2024   |
 | [[Create a Deep Learning Model\|Create a Deep Learning Model]]                             | 11:51 AM - May 17, 2024  |
 | [[Train a Deep Learning Model\|Train a Deep Learning Model]]                               | 11:57 AM - May 17, 2024  |
+| [[Save and Load a Deep Learning Model\|Save and Load a Deep Learning Model]]               | 7:38 PM - September 13, 2024  |
 ---
 >Tags: #AI #NN 
